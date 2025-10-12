@@ -83,4 +83,4 @@ with st.expander("ℹ️ What do the inputs mean?"):
     """)
 
 # Footer
-st.markdown("<hr><center>🚀 Built with ❤️ by Vishal | Powered by Machine Learning</center>", unsafe_allow_html=True)
+st.markdown("<hr><center>🚀 Built with ❤️ by Nidhi Chobey | Powered by Machine Learning</center>", unsafe_allow_html=True)
